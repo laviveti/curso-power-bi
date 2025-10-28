@@ -1,0 +1,11 @@
+Ex básico:
+
+1- Formatar as colunas do 0
+2- Utilizar o mesclar colunas e criar o nome completo (nome + sobrenome)
+3- Substituir:
+
+Adjustable Dog Harness '
+Adjustable Dog Harnesss
+
+Por:
+Adjustable Dog Harness
