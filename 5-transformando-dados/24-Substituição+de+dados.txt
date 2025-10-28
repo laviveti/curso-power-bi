@@ -1,0 +1,29 @@
+Substituição de dados:
+
+Coluna produto C:
+Coca - Cola
+.Coca Cola
+.Coca Cola 2L
+
+Notebook acer
+.Notebookk acer
+
+Samsung TV
+.Samsung TV'
+.Samsung TV 42
+.Samsung TV
+.Samsung TV 5k
+
+Coluna local entrega B:
+
+São Paulo
+.SP
+
+Rio de Janeiro
+.RJ
+
+Santa Catarina
+.SC
+
+
+

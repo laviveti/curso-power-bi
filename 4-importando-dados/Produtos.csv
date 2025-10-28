@@ -1,0 +1,1001 @@
+id,produto,valor,endereço
+1,Cheesy Cauliflower Bake,5.49,157.3.225.52
+2,Sliced Avocado,2.79,51.58.125.177
+3,Organic Black Beans,1.29,32.219.230.24
+4,Laptop Stand,29.99,39.225.196.110
+5,Veggie Lovers Pizza,8.99,12.130.13.249
+6,Art Supplies Organizer,18.99,232.2.81.135
+7,Sweet Potato Tots,4.29,65.172.130.36
+8,Shatterproof Wine Glasses,24.99,106.132.56.18
+9,Marinara Parmesan Baked Ziti,8.49,162.10.55.226
+10,Professional Chef Knife,89.99,194.147.121.134
+11,Pumpkin Waffles,4.49,106.216.112.4
+12,Dried Cranberries,4.29,60.52.193.61
+13,Vegetable Quinoa Bowl,5.99,225.255.188.2
+14,Wine Glasses,29.99,162.78.74.166
+15,Organic Green Apples,1.49,165.193.128.111
+16,Portable Blender,30,193.102.115.147
+17,Honey BBQ Ribs,12.99,11.189.120.95
+18,Pet Grooming Gloves,9.99,239.219.252.255
+19,Cherry Almond Protein Bar,1.99,176.185.79.25
+20,Tomato Basil Pasta Sauce,3.99,254.141.38.61
+21,Portable Phone Charger,29.99,6.189.88.145
+22,Mushroom Soup (canned),2.49,198.118.39.255
+23,Organic Tomato Soup,3.79,132.188.187.244
+24,Egg Noodles,2.29,227.151.34.72
+25,Mini Fondue Set,34.99,90.102.28.85
+26,Corn Tortillas,2.49,5.93.56.100
+27,Kale and Quinoa Salad,6.49,103.8.191.125
+28,Classic Slim Fit Shirt,49.99,126.222.176.154
+29,Tuna Fish (canned),2.29,198.47.122.192
+30,Portable Solar Phone Charger,29.99,127.49.90.74
+31,Coconut Curry Lentils,5.79,126.163.25.65
+32,Pet Reflective Vest,18.99,66.67.106.4
+33,Bluetooth Sleep Headphones,29.99,60.28.179.199
+34,Smart Light Switch,29.99,170.202.143.194
+35,Outdoor Sports Backpack,49.99,10.123.217.145
+36,Cranberry Almond Granola,4.29,203.219.252.166
+37,Car Diagnostic Scanner,49.99,195.73.92.108
+38,Coconut Cream Pie,9.49,228.44.96.245
+39,Car Diagnostic Scanner,49.99,15.58.207.48
+40,Cucumber,0.99,172.50.33.130
+41,Leek and Potato Soup,3.29,30.73.145.224
+42,Pet Grooming Kit,39.99,18.240.126.232
+43,Maple Glazed Carrots,3.29,165.52.59.145
+44,Teriyaki Beef Jerky,5.49,35.104.156.89
+45,Chocolate Fudge Ice Cream,5.99,88.50.169.4
+46,Pumpkin Spice Pancake Mix,3.49,64.37.90.247
+47,Essential White Button-Up,44.99,2.213.199.185
+48,Sunglasses,29.99,90.62.176.205
+49,Self-Stirring Mug,19.99,3.28.101.96
+50,Turkey Bacon,3.99,221.73.136.79
+51,Sesame Seeds,1.99,38.129.151.55
+52,Lentil Soup,2.49,132.188.252.6
+53,Oven-Baked Potato Chips,2.79,38.217.227.122
+54,Berry Smoothie Mix,4.99,168.91.58.228
+55,Infrared Space Heater,99.99,102.171.177.241
+56,Electronic Drum Kit,359.99,208.132.105.15
+57,Adjustable Laptop Desk,59.99,195.13.159.3
+58,Glass Tea Pot,34.99,226.33.91.234
+59,Mini Waffle Maker,24.99,99.161.250.213
+60,Savory Quinoa Pudding,2.99,21.244.108.184
+61,Heart-Shaped Baking Molds,10.99,81.119.105.103
+62,Pet Grooming Glove,12.99,95.217.244.131
+63,Outdoor Folding Table,39.99,13.137.117.229
+64,Sweet Corn,1.5,86.46.126.198
+65,Mashed Sweet Potatoes,3.99,13.70.152.248
+66,Paint By Numbers Kit,24.99,30.125.91.10
+67,Puffer Winter Coat,99.99,56.220.118.90
+68,Telescope,159.99,223.226.55.127
+69,Heated Throw Blanket,49.99,114.249.158.252
+70,Gardening Gloves,15.99,1.220.164.200
+71,Casual Sneakers,39.99,71.150.192.184
+72,Creative Puzzle Game,19.99,192.120.220.75
+73,Banana Peanut Butter Smoothie,5.49,78.35.39.254
+74,Fitness Foam Roller,29.99,157.157.137.81
+75,Fitness Resistance Bands,29.99,127.59.159.164
+76,Mini Pretzels,2.99,61.140.210.106
+77,Fashionable Belt Bag,34.99,39.13.132.40
+78,Vegetable and Cheese Quesadillas,6.99,51.234.99.57
+79,Pet Hair Removal Roller,10.99,64.61.62.117
+80,Savory Oatmeal Cups,1.99,164.76.77.75
+81,Cinnamon Sugar Popcorn,2.89,29.222.239.30
+82,Thai Basil Fried Rice,5.99,187.11.218.133
+83,Basil Pesto Pasta,6.49,40.117.142.2
+84,Apple Pie Filling,3.49,59.202.121.132
+85,Crispy Tofu Bites,4.99,208.233.30.88
+86,Cranberry Almond Granola,4.29,254.39.3.199
+87,Microwave Popcorn Maker,19.99,185.90.113.123
+88,Utility Cargo Pants,54.99,159.36.122.134
+89,LED Under Cabinet Lighting,29.99,175.208.54.91
+90,Fruit and Nut Medley,5.99,224.116.219.90
+91,Almond Flour Cookies,4.99,178.235.142.10
+92,Carrot Sticks,2.49,223.254.166.149
+93,Coconut Cream Pie,9.49,213.14.237.93
+94,Durable Hiking Boots,89.99,127.111.140.112
+95,Veggie Chips Variety Pack,3.79,32.31.21.190
+96,Almond Joy Snack Bars,2.99,54.42.80.250
+97,Honey,5.49,145.109.90.147
+98,Travel Beach Blanket,29.99,65.165.54.205
+99,Lemon Herb Chicken,7.49,249.107.185.142
+100,Travel Mug with Leak-Proof Lid,24.99,240.162.219.114
+101,Handmade Leather Journal,39.99,189.85.196.129
+102,Interactive Plush Toy,34.99,251.132.51.136
+103,Potting Soil,15.99,89.199.190.43
+104,Surimi Crab Sticks,4.19,167.249.97.100
+105,Habanero Hot Sauce,3.79,193.207.47.143
+106,Teriyaki Chicken Wings,10.99,104.94.138.192
+107,Reclining Camping Chair,49.99,0.88.20.54
+108,Smartphone Holder for Car,14.99,242.91.249.125
+109,Fleece Hoodie,39.99,96.190.179.241
+110,Pet Hair Vacuum Attachment,14.99,32.33.216.219
+111,Vegetarian Stir Fry Sauce,2.49,171.38.143.211
+112,Eco-Friendly Yoga Blocks,15.99,180.52.246.64
+113,Sunglasses,29.99,174.119.123.62
+114,Cabbage,1.29,204.183.95.127
+115,Smart Light Switch,29.99,16.101.105.200
+116,Adjustable Laptop Stand,29.99,60.146.198.84
+117,Baked Potato Chips,2.49,6.57.111.60
+118,Organic Granola Cereal,5.99,70.77.65.181
+119,Frozen Hash Browns,2.99,117.120.149.145
+120,Adjustable Resistance Bands,39.99,228.124.134.144
+121,Garden Hose,32.99,18.239.40.158
+122,Peach Halves (canned),2.49,148.138.47.48
+123,Hot Dog Buns,2.49,179.207.191.49
+124,Eco-Friendly Disposable Plates,22.99,230.157.60.226
+125,Organic Coconut Yogurt,4.49,2.5.220.222
+126,Indoor Grill,59.99,243.208.168.60
+127,Raspberry Tart,5.49,22.113.169.126
+128,Chocolate Covered Pretzels,3.29,5.192.249.39
+129,Roasted Garlic Mashed Potatoes,3.99,124.123.140.178
+130,Marinara Sauce,3.49,225.53.90.101
+131,Sliced Olives,1.99,60.63.220.37
+132,Self-Cleaning Water Bottle,49.99,37.178.211.70
+133,Pineapple Coconut Bars,3.79,114.247.82.123
+134,Blackberry Compote,5.29,22.93.190.91
+135,Pumpkin Waffles,4.49,223.167.29.49
+136,Pumpkin Spice Creamer,3.79,241.213.80.64
+137,Teriyaki Tofu Stir-Fry,7.49,82.147.41.23
+138,Pumpkin Spice Granola,4.99,211.19.175.49
+139,Kids' Art Easel,58.99,108.43.178.77
+140,Hibiscus Tea Bags,3.79,156.195.164.129
+141,Vegan Taco Seasoning,2.49,200.233.180.98
+142,Pepperoni Pizza Roll-Ups,5.99,99.192.180.121
+143,Fried Rice,4.29,147.34.88.184
+144,Sweet Potatoes,0.89,95.70.28.128
+145,Classic Caesar Dressing,3.49,29.101.170.126
+146,Maple Pecan Pancake Mix,4.99,58.120.91.131
+147,Electric Egg Cooker,29.99,242.197.149.155
+148,Microwave Popcorn Maker,19.99,182.146.121.223
+149,Pet Bed with Removable Cover,49.99,127.44.247.85
+150,Garlic Butter Sauce,3.59,15.123.233.215
+151,Asian Noodle Salad Kit,4.99,135.121.142.107
+152,Mini Waffle Maker,24.99,51.150.27.62
+153,Motion Sensor Light,19.99,39.10.72.81
+154,Blueberry Muffin Mix,4.29,26.167.226.247
+155,LED Flashlight,19.99,222.33.23.142
+156,Lemon Lime Sparkling Water,1.99,159.61.2.237
+157,Tofu,2.49,237.144.207.247
+158,Almond Milk,3.29,248.64.225.114
+159,Beef Tacos,5.49,0.219.44.32
+160,Pretzel Bites,4.99,241.80.200.66
+161,Eco-Friendly Yoga Blocks,15.99,9.101.128.154
+162,Baked Falafel,5.49,184.118.207.109
+163,Portable Hand Warmer,24.99,166.142.228.220
+164,Green Tea Matcha Powder,15.99,237.68.52.255
+165,Spicy Hummus,3.49,157.136.231.21
+166,Magnetic Phone Car Mount,14.99,60.133.217.57
+167,Sliced Ham,5.49,121.153.240.148
+168,Luxe Velvet Blazer,89.99,126.6.120.102
+169,Tomato Basil Soup,3.49,132.28.225.246
+170,Classic BBQ Sauce,2.79,104.188.152.52
+171,Sun Protection Clothing,44.99,96.189.21.204
+172,Gardening Gloves,15.99,91.160.27.216
+173,Bamboo Toothbrush,5.99,245.81.77.10
+174,Car Vacuum Cleaner,39.99,66.202.136.171
+175,Pet Travel Bed,26.99,41.138.182.88
+176,Feta Cheese,4.99,80.216.159.21
+177,Spicy Avocado Salsa,4.49,167.213.226.172
+178,Sparkling Blood Orange Soda,1.99,252.27.137.49
+179,Whole Wheat Pasta,2.49,146.189.227.179
+180,Recipe Book Stand,22.99,8.18.91.167
+181,Almond Joy Protein Bars,1.99,201.155.234.85
+182,Beef Stew Meat,5.99,46.246.23.67
+183,Wireless Printer,99.99,165.171.102.10
+184,Herbed Goat Cheese,5.49,177.65.209.19
+185,Wireless Gaming Headset,89.99,138.210.7.183
+186,Electric Razor,59.99,63.227.18.150
+187,Ground Turkey,5.49,152.205.33.150
+188,Smartphone Gimbal,89.99,146.38.12.37
+189,Cheese Stuffed Jalapenos,5.99,132.103.61.91
+190,Whole Grain Cereal,3.49,35.213.241.248
+191,Reclining Camping Chair,49.99,20.207.105.168
+192,Indoor Grill,59.99,164.103.59.49
+193,Essential Oils Diffuser Necklace,19.99,219.143.213.192
+194,Nordic Berry Smoothie,3.99,25.149.159.66
+195,Almond Flour Pancake Mix,5.99,127.226.86.236
+196,Grass Fed Beef Patties,9.99,96.40.187.17
+197,Pineapple Teriyaki Chicken Mix,6.99,141.190.44.89
+198,Cotton Pajama Set,49.99,7.148.158.15
+199,Pumpkin Spice Granola,4.99,251.230.128.41
+200,Indoor Plants,19.99,137.114.29.72
+201,High-Top Leather Boots,99.99,92.212.142.126
+202,Ramen Noodles,0.99,91.19.136.120
+203,Beef Jerky,5.99,84.251.110.213
+204,Digital Food Thermometer,19.99,226.30.54.93
+205,Blackberry Compote,5.29,214.51.148.194
+206,Gluten-Free Biscuits,3.79,26.90.156.226
+207,Smart Water Bottle with Hydration Reminder,39.99,234.227.140.52
+208,Folding Backpack Chair,49.99,28.140.161.63
+209,Garlic Herb Cream Cheese,2.99,152.29.249.113
+210,Tailgating Set,89.99,36.90.210.215
+211,Coconut Rice,2.29,93.203.105.42
+212,Stainless Steel Straws,12.99,148.94.28.168
+213,Spicy Tuna Rolls,6.49,183.34.208.235
+214,Mango Chia Pudding,4.49,193.12.56.169
+215,Cocktail Shaker Set,29.99,157.125.213.184
+216,Garlic Breadsticks,3.49,230.117.20.255
+217,Slingback Sandals,29.99,25.183.176.249
+218,Sun-Dried Tomatoes,3.99,215.136.125.121
+219,Almond Flour Cookies,4.99,160.34.141.11
+220,Kids' Building Blocks,19.99,129.45.24.247
+221,Chocolate Covered Pretzels,3.29,40.218.24.149
+222,Cheesy Cauliflower Bake,5.49,129.86.143.242
+223,Ceramic Cookware Set,179.99,209.32.134.98
+224,Coconut Oil Spray,4.99,166.42.46.67
+225,Sriracha Sauce,3.19,169.16.125.158
+226,Smart Thermos,39.99,133.44.143.236
+227,Decorative Throw Blanket,39.99,148.169.134.118
+228,Ricotta Cheese,4.99,20.200.132.220
+229,Kids' Educational Tablet,129.99,211.168.110.66
+230,Coconut Cream Pie Yogurt,1.99,103.106.23.251
+231,Yoga Wheel,34.99,32.31.168.138
+232,Digital Voice Recorder,49.99,87.24.16.135
+233,Buffalo Cauliflower Bites,6.29,141.136.32.39
+234,Sunglasses Case,15.99,246.131.178.132
+235,Sunflower Seeds,2.99,244.155.183.81
+236,Blackberry Compote,5.29,173.250.28.46
+237,Apple Cinnamon Oatmeal,2.89,113.105.244.253
+238,Natural Peanut Butter,4.29,73.200.80.208
+239,Sliced Turkey Breast,5.49,153.182.204.22
+240,Chocolate Chip Muffins,3.99,56.50.111.36
+241,Nutty Quinoa Salad,4.99,104.52.241.193
+242,Bock Beer Mustard,2.29,101.64.10.161
+243,Energy Bites,3.99,94.25.221.179
+244,Plant-Based Protein Bars,19.99,169.179.255.15
+245,Smartwatch,199.99,179.131.34.132
+246,Shredded Cheese,4.29,220.96.114.207
+247,Raspberry Limeade,1.99,52.80.141.1
+248,Smoked Paprika,2.99,137.233.168.95
+249,Ultraviolet Phone Sanitizer,39.99,247.82.52.50
+250,Overnight Duffle Bag,34.99,80.93.11.73
+251,Aged White Cheddar Popcorn,2.99,171.174.83.94
+252,Ceramic Non-Stick Frying Pan,39.99,162.141.111.197
+253,Bock Beer Mustard,2.29,190.123.59.196
+254,Teriyaki Chicken Wings,10.99,28.168.17.142
+255,Deluxe First Aid Kit,39.99,147.74.111.242
+256,Heavy Duty Gardening Tool Set,49.99,23.203.213.64
+257,Berries Medley,6.99,13.187.165.50
+258,Camera Tripod,49.99,156.134.103.36
+259,Electric Hot Water Dispenser,59.99,50.210.88.129
+260,Two-Tier Fruit Basket,29.99,98.62.36.207
+261,Pumpkin Waffles,4.49,230.184.90.75
+262,Smart Thermostat with Wi-Fi,169.99,30.207.116.20
+263,Peach & Mango Salsa,4.49,92.131.234.212
+264,Digital Food Scale,22.99,209.188.86.76
+265,Whole Grain Mustard,3.49,252.240.84.253
+266,Vegetable Fried Rice Mix,3.99,247.58.120.140
+267,Nutritional Yeast,3.59,50.90.34.123
+268,Mediterranean Couscous,3.59,147.43.161.27
+269,Almond Flour Brownies,5.99,243.47.218.20
+270,Outdoor Portable Fire Pit,149.99,202.124.57.184
+271,Blueberry Muffin Mix,4.29,120.121.234.1
+272,Personalized Pet ID Tags,9.99,67.187.136.236
+273,Asian Stir-Fry Kit,5.49,92.218.33.99
+274,Oven Mitts with Pocket,19.99,40.171.7.228
+275,Foldable Yoga Mat,29.99,222.193.133.209
+276,Strawberry Banana Smoothie Pack,4.99,66.154.230.232
+277,Casual Sneakers,39.99,165.163.57.241
+278,Kids' Educational Tablet,129.99,2.89.168.34
+279,Organic Green Tea,4.29,187.31.43.219
+280,Smartphone Photography Ring Light,29.99,254.32.168.21
+281,Sesame Oil,3.99,105.212.97.230
+282,Travel Size Toiletry Bottles,9.99,0.173.202.196
+283,Cooking Utensil Set,24.99,71.107.39.190
+284,LED Makeup Mirror,39.99,169.251.35.126
+285,Nordic Berry Smoothie,3.99,231.179.180.96
+286,Pet Caress Brush,12.99,174.239.7.84
+287,Baby Safety Corner Guards,9.99,125.30.199.111
+288,Terry Cloth Robe,59.99,29.81.72.87
+289,Chilli Lime Corn on the Cob,1.99,55.85.174.218
+290,Garden Vegetable Chips,3.49,140.56.140.178
+291,Greek Yogurt Parfait,4.49,1.207.202.73
+292,Karaoke Microphone,39.99,56.20.187.104
+293,Incense Holder,14.99,226.195.163.209
+294,Non-Stick Baking Sheets,29.99,51.206.250.115
+295,Watering Can with Nozzle,19.99,96.76.0.231
+296,Stainless Steel Grater,14.99,42.90.241.49
+297,Honeycrisp Apples,1.89,83.214.30.216
+298,Dish Rack,24.99,161.247.198.59
+299,Outdoor Picnic Blanket,34.99,130.243.178.29
+300,Garden Vegetable Chips,3.49,182.160.175.182
+301,Memory Foam Mattress Pad,69.99,67.17.13.112
+302,Cinnamon Raisin Bagels,4.19,71.181.222.200
+303,Radish Chips,2.89,71.141.17.65
+304,Vegetable and Cheese Quesadillas,6.99,96.222.109.167
+305,Active Racerback Tank,24.99,239.24.13.233
+306,Chicken Fajita Kit,8.99,71.213.145.182
+307,Sweet Chili Thai Sauce,3.49,80.50.110.144
+308,Cordless Electric Screwdriver,39.99,148.116.179.44
+309,Roasted Vegetable Medley,3.99,104.135.226.25
+310,Adjustable Window Blind,49.99,172.154.190.116
+311,Portable Grill Cover,24.99,155.96.22.101
+312,Watering Can with Nozzle,19.99,82.42.62.189
+313,Peach Halves (canned),2.49,101.199.119.114
+314,Gluten-Free Pancake Mix,5.99,167.5.142.243
+315,Smart LED Desk Lamp,39.99,185.93.113.233
+316,Ankle Boots,89.99,235.137.108.21
+317,Herb Seasoned Couscous,2.49,210.198.234.251
+318,Cheesy Broccoli Soup Mix,2.99,175.36.36.191
+319,LED Desk Light,34.99,57.210.7.71
+320,Garden Vegetable Chips,3.49,224.11.51.214
+321,Thermostatic Shower Valve Kit,39.99,87.132.18.199
+322,Peach Mango Smoothie,3.49,81.195.251.115
+323,Herb Seasoned Rice,2.99,203.50.122.244
+324,Almond Butter Crunch Bar,1.99,12.170.131.3
+325,Travel Size Toiletry Bottles,9.99,154.50.1.149
+326,Sous Vide Cooker,79.99,119.46.202.120
+327,Pine Nuts,7.99,127.73.9.214
+328,Savory Oatmeal,2.49,28.97.73.132
+329,Wall Art Stickers,19.99,217.248.219.167
+330,Emergency Preparedness Kit,99.99,78.12.225.23
+331,Electric Hot Water Dispenser,59.99,210.36.44.119
+332,Silicone Baking Cups,10.99,199.180.108.47
+333,Overnight Hiking Backpack,79.99,122.4.242.239
+334,Fitness Jump Rope with LCD Counter,15.99,168.164.96.165
+335,Sweet Potatoes (organic),1.99,115.183.30.216
+336,Insulated Coffee Mug,24.99,54.219.238.216
+337,Canned Sardines,3.29,149.245.200.183
+338,Pasta Salad Kit,5.99,207.177.227.125
+339,Cranberry Juice,3.69,222.250.54.233
+340,Pet Training Clicker,5.99,37.136.35.132
+341,Biodegradable Trash Bags,12.99,201.192.144.13
+342,Chickpea Snack Mix,3.49,95.127.58.180
+343,Wall Decals for Kids,24.99,249.176.212.14
+344,Fitness Tracker,49.99,89.224.6.148
+345,Portable Solar Charger,29.99,12.191.67.149
+346,Whisk Set,12.99,0.143.175.140
+347,Lockable Bicycle Chain,19.99,106.173.133.195
+348,French Onion Dip,2.99,18.202.4.174
+349,Whole Chicken,12.99,213.236.83.224
+350,Wooden Toy Train Set,29.99,55.237.216.115
+351,Brownie Bites,4.99,153.186.134.242
+352,Foldable Picnic Table,49.99,216.229.223.232
+353,Gluten-Free Brownies,4.99,246.152.218.103
+354,Cheddar Cheese Slices,3.49,188.11.131.20
+355,Caramelized Onion Dip,3.99,149.32.61.2
+356,Plant-Based Meal Prep Containers,18.99,227.199.169.43
+357,Bock Beer Mustard,2.29,172.18.254.65
+358,Coconut Cashew Yogurt,1.99,76.13.69.98
+359,Electric Bike,899.99,111.117.65.29
+360,Inflatable Pool Float,29.99,162.85.204.173
+361,Pet Bed,39.99,208.116.112.142
+362,Rechargeable Hand Warmer,22.99,68.137.218.105
+363,Pecan Nuts,6.49,175.79.74.70
+364,Spicy Italian Sausage,4.99,144.29.105.239
+365,Berry Smoothie Mix,4.99,2.73.132.151
+366,Maple Pecan Oatmeal Cookies,3.99,171.75.249.157
+367,Spinach and Feta Stuffed Chicken Breast,8.99,91.47.7.213
+368,Foldable Yoga Mat,29.99,57.172.23.191
+369,Aeropress Coffee Maker,29.99,151.132.21.126
+370,Mushrooms,2.99,114.245.232.82
+371,Walnut Halves,8.49,218.41.92.92
+372,Coconut Macaroons,4.99,183.140.103.174
+373,Brown Sugar,1.79,16.230.0.244
+374,Raspberry Limeade,1.99,57.87.116.26
+375,Peanut Butter Pretzel Bites,4.19,107.130.119.17
+376,Pet Carrier Backpack,39.99,78.247.68.153
+377,Chocolate Coconut Granola,3.79,193.107.33.187
+378,Thyme,2.49,140.182.0.199
+379,Taro Chips,3.59,197.156.233.25
+380,Sweet Potatoes,0.89,19.207.50.202
+381,Personalized Keychain,10.99,191.100.129.247
+382,Mixed Berry Smoothie Pack,5.99,113.146.234.58
+383,Wall-Mounted Bookshelf,39.99,212.161.2.38
+384,Outdoor Camping Lantern,34.99,196.156.67.139
+385,Guitar Tuner,19.99,128.51.3.35
+386,Spicy Avocado Salsa,4.49,97.223.177.99
+387,Sporty Slide Sandals,24.99,23.56.60.4
+388,Banana Nut Muffins,4.49,192.184.252.96
+389,Pest Control Traps,22.99,10.46.39.223
+390,Cork Yoga Mat,39.99,127.95.188.188
+391,Kids' Building Blocks,19.99,137.112.188.23
+392,Sweet Potato Mash,3.99,16.32.182.15
+393,Smartphone UV Sanitizer,39.99,107.78.251.212
+394,Corn Tortillas,2.49,104.96.244.2
+395,Wireless Gaming Headset,89.99,194.15.238.213
+396,Chickpea Pancakes,4.99,64.240.108.110
+397,Asian Stir-Fry Vegetables,2.99,196.254.151.38
+398,Caramelized Onion Dip,3.99,70.193.22.142
+399,Lasagna Noodles,1.89,7.151.11.28
+400,Tailored Blazer,99.99,55.139.106.183
+401,BBQ Sauce,3.49,18.207.91.183
+402,Travel Mug,18.99,144.250.85.26
+403,Thai Peanut Dressing,3.29,66.115.214.46
+404,Pasta Salad Kit,5.99,55.31.201.30
+405,Shoe Organizer,39.99,59.13.163.188
+406,Chia Seed Pudding Mix,4.19,198.213.49.127
+407,Portable Air Purifier,69.99,70.94.32.144
+408,Maple Chipotle Glaze,3.49,152.95.86.200
+409,Smart Thermostat with Wi-Fi,169.99,114.190.137.167
+410,Pet Training Clicker,5.99,240.61.102.199
+411,Pumpkin Seeds,2.79,184.83.236.217
+412,Organic Coconut Flour,5.49,73.163.212.132
+413,Colorful Post-It Notes Set,9.99,77.23.190.243
+414,Voice-Controlled Speaker,99.99,15.236.144.230
+415,Organic Vanilla Bean Ice Cream,5.99,119.112.163.23
+416,Self-Massaging Pillow,49.99,205.85.161.226
+417,Plant Watering Spikes,12.99,108.72.223.186
+418,Rain Jacket,64.99,40.114.231.9
+419,Portable Bluetooth Speaker,49.99,37.30.65.180
+420,Insulated Cooler,39.99,149.137.118.137
+421,Smoked Paprika,2.99,72.187.39.54
+422,Handcrafted Wooden Jewelry Box,39.99,3.233.255.179
+423,Buffalo Chicken Wraps,5.99,173.68.150.13
+424,Berries Medley,6.99,215.122.97.71
+425,Pet Travel Bowl,10.99,8.102.78.24
+426,Cotton Sweatpants,29.99,30.100.23.103
+427,Chili Garlic Sauce,2.49,81.235.73.202
+428,Lemon Pepper Seasoning,3.29,122.52.0.237
+429,Nut Butter Cups,3.99,253.131.117.166
+430,Fridge Magnet Set,15.99,53.207.159.43
+431,Car Vacuum,49.99,255.223.204.237
+432,Travel Organizer,22.99,120.213.64.103
+433,Smart Plug,19.99,122.246.176.29
+434,Pet Training Clicker,5.99,129.115.144.232
+435,Toasted Coconut Granola,4.99,183.56.129.122
+436,Collapsible Water Bottle,12.99,64.54.173.50
+437,Vegetarian Pizza,5.49,125.188.147.27
+438,Wine Glasses,29.99,190.185.66.114
+439,Collapsible Camping Cup,9.99,41.0.28.112
+440,Ramen Noodles,0.99,30.69.139.28
+441,Peach Salsa,3.29,102.149.174.194
+442,Pet Safety Belt for Car,14.99,131.194.157.109
+443,Set of Silicone Cooking Utensils,29.99,211.198.49.226
+444,Elderberry Syrup Kit,22.99,125.203.241.121
+445,Set of Decorative Storage Bins,34.99,209.78.40.219
+446,Potting Soil,15.99,23.39.240.141
+447,Kitchen Scale,19.99,193.152.220.9
+448,USB Flash Drive,9.99,136.87.36.200
+449,Outdoor Sports Backpack,49.99,22.52.70.19
+450,Brown Rice,1.79,221.209.225.22
+451,Potting Soil,15.99,187.17.221.118
+452,High-Top Leather Boots,99.99,77.143.222.113
+453,Maple Cinnamon Almonds,4.29,12.128.125.234
+454,Herb Drying Rack,22.99,254.118.90.192
+455,Outdoor Inflatable Pool,149.99,93.157.74.66
+456,Ultraviolet Phone Sanitizer,39.99,77.244.29.150
+457,Organic Apples,1.89,48.28.214.10
+458,Peanut Butter Chocolate Chip Bars,4.59,107.120.2.204
+459,Winter Insulated Jacket,89.99,226.183.218.20
+460,USB Wall Charger,19.99,0.24.51.17
+461,Organic Black Beans,1.29,18.175.71.184
+462,Honey Garlic Shrimp,8.49,5.253.226.86
+463,Watercolor Brush Pens,19.99,191.19.122.35
+464,Shower Curtain Hooks,12.99,189.136.44.87
+465,Smart LED Light Strip,29.99,72.137.56.230
+466,Fitness Tracker Watch,79.99,198.44.108.124
+467,Chic Ankle Strap Heels,69.99,198.115.136.241
+468,Chocolate Chip Muffins,3.99,212.247.164.4
+469,Whisk Set,12.99,250.175.176.160
+470,Couscous,2.49,157.110.31.240
+471,Cereal Dispenser with Portion Control,24.99,138.60.89.64
+472,High-Quality Yoga Mat,34.99,221.228.93.148
+473,Garlic Herb Seasoning,1.99,98.84.202.172
+474,Adjustable Dog Harness,24.99,67.35.236.43
+475,Sweet Pea Hummus,4.29,214.106.44.102
+476,Memory Foam Mattress Topper,109.99,58.208.71.140
+477,Carrot Ginger Soup,4.29,33.199.178.111
+478,Rain Jacket,64.99,231.122.50.29
+479,Plant-Based Protein Bars,19.99,6.145.192.244
+480,Garlic and Herb Cream Cheese,3.49,182.200.131.35
+481,Digital Camera,299.99,123.107.232.72
+482,Cinnamon Raisin Bread,3.79,93.120.106.2
+483,Soft Plush Throw Blanket,29.99,138.211.17.129
+484,Portable Air Conditioner,299.99,106.245.56.181
+485,Coconut Milk,2.49,169.206.7.50
+486,Portable Laptop Table,39.99,165.226.157.28
+487,French Bread,2.49,113.183.234.216
+488,Truffle Parmesan Fries,4.99,201.205.168.8
+489,High-Pressure Handheld Shower Head,39.99,106.117.40.199
+490,Field Journal,14.99,86.189.248.30
+491,Canvas Wall Art,39.99,243.197.151.177
+492,Pasta (Fusilli),1.79,164.135.249.236
+493,Vegan chocolate chip cookies,4.79,214.44.199.134
+494,Canned Black Beans,1.29,215.9.105.14
+495,Spicy Tuna Rolls,6.49,52.195.21.10
+496,Magnetic Curtain Tiebacks,12.99,214.91.146.146
+497,Sweet Potato Fries,3.99,86.19.78.75
+498,Satin Slip Dress,59.99,145.56.188.185
+499,Instant Mashed Potatoes,1.79,21.119.89.88
+500,Rice Noodles,3.49,121.68.136.128
+501,Magic Color-Changing Mug,14.99,70.127.190.142
+502,Savory Oatmeal,2.49,0.162.230.151
+503,Garden Kneeler and Seat,39.99,187.146.70.24
+504,Buffalo Stilton Cheese,8.99,214.148.141.204
+505,Puzzle Game Set,34.99,208.124.157.171
+506,Adjustable Dog Harness,24.99,124.11.21.59
+507,Apple Cinnamon Granola,4.49,138.159.240.152
+508,Vegan chocolate chip cookies,4.79,230.205.227.237
+509,Weighted Jump Rope,15.99,229.30.122.172
+510,Mini Meatballs,5.99,73.123.253.189
+511,Cotton Sweatpants,29.99,88.237.16.68
+512,Vintage Button-Down Shirt,45.99,9.243.130.233
+513,Reversible Comforter Set,89.99,58.215.7.46
+514,Honey Mustard Pretzel Bites,3.99,221.118.140.115
+515,Reflective Safety Vest,19.99,191.41.19.245
+516,Italian Herb Balsamic Marinade,3.99,33.46.12.182
+517,Watering Can with Nozzle,19.99,221.47.137.165
+518,Reusable Snack Bags,14.99,93.103.169.82
+519,Gaming Headset,69.99,173.104.144.225
+520,Mini Projector for Smartphones,99.99,46.20.174.94
+521,Pet Bed with Removable Cover,49.99,211.21.212.43
+522,Cold Brew Coffee Concentrate,7.99,183.90.51.23
+523,Mango Chunks,4.89,39.254.78.58
+524,Sour Cream,3.49,221.24.151.158
+525,Lentil Soup (canned),1.99,168.173.233.9
+526,Protein Bar Variety Pack,12.99,132.253.182.51
+527,Chocolate Chip Cookie Dough,5.49,111.1.124.241
+528,Reusable Food Storage Bags,19.99,145.136.147.29
+529,Smart Plug,19.99,107.97.118.253
+530,Dog Walking Waist Pack,19.99,163.52.111.43
+531,Faux Fur Throw Blanket,39.99,236.31.193.26
+532,Cocktail Shaker Set,29.99,182.196.51.213
+533,Chino Shorts,34.99,104.155.88.118
+534,Crispy Chickpeas,2.99,248.12.209.2
+535,Raisin Cinnamon Granola,3.79,65.251.143.108
+536,Pocket Blanket,24.99,166.79.199.20
+537,Cinnamon Raisin Bread,3.79,10.200.217.165
+538,Wine Decanter,34.99,175.144.233.169
+539,Body Pillow Case,14.99,135.34.12.164
+540,Chili Con Carne Mix,2.99,203.245.202.180
+541,Portable Dog Water Bottle,18.99,55.78.140.166
+542,Coconut Rice,2.29,147.55.91.220
+543,Sunglasses Case,15.99,83.22.183.154
+544,Wooden Blocks,24.99,57.218.147.38
+545,Fitness Tracker Watch,79.99,68.26.222.131
+546,Compact Folding Table,49.99,147.134.103.108
+547,Trackpad for Laptop,49.99,6.59.248.230
+548,Plant-Based Meal Prep Containers,18.99,88.37.185.225
+549,Organic Coconut Water,2.79,102.109.41.6
+550,Ginger Snaps,2.79,132.64.64.49
+551,Chic Jumpsuit,89.99,116.232.15.240
+552,Camping Tarp,32.99,247.112.13.174
+553,Peach Mango Smoothie Mix,5.99,99.126.150.189
+554,Fresh Basil Pesto,4.79,144.158.113.93
+555,Chilli Lime Corn on the Cob,1.99,61.89.233.237
+556,Reusable Snack Bags,14.99,41.65.180.240
+557,Fettuccine Alfredo Dinner Kit,5.49,63.131.191.52
+558,Self-Inflating Camping Mattress,49.99,51.148.230.165
+559,Wireless HDMI Receiver,49.99,46.169.80.44
+560,Peach Fruit Cups,1.99,159.130.124.140
+561,Cordless Electric Screwdriver,39.99,254.199.2.232
+562,Handheld Shower Head,34.99,224.245.204.213
+563,Vacuum Sealer Machine,89.99,227.253.206.240
+564,Electric Can Opener,29.99,70.110.9.209
+565,Pumpkin Puree,2.99,182.198.71.42
+566,Vegan Cheese,4.99,242.8.155.203
+567,Garden Hose Reel,49.99,148.32.161.144
+568,Tomato Paste,1.29,164.100.187.61
+569,Pasta (Linguine),1.89,56.243.171.70
+570,Set of Herb Garden Markers,8.99,54.9.81.144
+571,Magnetic Puzzle Board,24.99,8.186.128.161
+572,Adjustable Pet Feeder,39.99,206.40.135.186
+573,Nutritional Yeast,3.59,158.210.45.170
+574,Rain Jacket,64.99,157.98.47.87
+575,Outdoor Sports Backpack,49.99,216.188.39.220
+576,Adjustable Stand for Tablets and Smartphones,19.99,158.143.8.42
+577,Interchangeable Watch Bands,24.99,212.145.253.241
+578,Portable Campfire,39.99,165.38.154.37
+579,Avocado Oil Mayo,5.29,155.152.159.46
+580,Ground Turkey,5.49,155.107.254.58
+581,Habanero Hot Sauce,3.79,246.9.240.126
+582,Vegetable Korma,6.49,43.179.160.137
+583,Foot Massager Machine,59.99,184.111.40.83
+584,Puzzle Mat,22.99,135.215.140.5
+585,Electric Griddle,54.99,111.71.172.237
+586,Pet Grooming Kit,39.99,23.244.131.6
+587,Portable Bluetooth Keyboard,39.99,204.53.179.225
+588,Sliced Avocado,2.79,139.240.123.220
+589,Window Blinds,59.99,228.252.163.132
+590,Wireless Charging Station,39.99,96.234.33.148
+591,Pepper Jack Cheese Slices,3.49,241.81.58.201
+592,Vanilla Ice Cream,4.99,83.232.231.109
+593,Portable Laptop Table,39.99,28.29.44.241
+594,Fitness Smartwatch,99.99,228.133.196.60
+595,Lemon Lime Sparkling Water,1.99,77.194.201.216
+596,Fire Roasted Salsa,2.49,188.111.163.19
+597,Pet Travel Backpack Carrier,49.99,186.174.162.152
+598,Slim Fit Chinos,54.99,164.176.32.61
+599,Ginger Turmeric Shots,3.99,134.125.140.79
+600,Homestyle Beef Stew,7.99,41.99.189.102
+601,Insulated Lunch Bag,24.99,124.117.25.196
+602,Digital Food Thermometer,19.99,197.195.117.7
+603,Spicy Thai Coconut Soup,3.99,72.171.173.51
+604,Portable Solar Path Lights,39.99,1.248.19.230
+605,Luxury Yoga Mat,39.99,55.91.113.49
+606,LED Disco Ball Light,19.99,62.95.211.227
+607,Brown Sugar,1.79,98.245.68.116
+608,Hummus Variety Pack,5.99,105.28.4.20
+609,Compact Digital Camera,249.99,162.107.165.4
+610,Weighted Jump Rope with Counter,14.99,41.66.86.53
+611,Quality Chef Apron,19.99,144.116.231.106
+612,Karaoke Microphone,39.99,253.183.16.143
+613,Maple Pecan Pancake Mix,4.99,195.6.19.142
+614,Dried Mango Slices,3.49,81.135.17.19
+615,Electric Stir Fry Pan,49.99,181.234.248.236
+616,Personal Blender,39.99,226.20.112.85
+617,Mint Chocolate Chip Ice Cream,4.99,171.35.75.147
+618,Fitness Mat,49.99,36.123.71.164
+619,Black Bean Soup,3.49,232.162.214.242
+620,Cotton Pajama Set,49.99,218.150.216.162
+621,Dark Chocolate Almond Butter Cups,4.99,31.249.3.243
+622,Guitar Tuner,19.99,229.91.16.117
+623,Saffron Rice Mix,2.99,117.76.235.235
+624,Garlic Herb Grilled Chicken,8.99,186.110.117.99
+625,Travel Makeup Organizer,25.99,22.43.30.100
+626,Classic Cheesecake Mix,4.99,233.247.240.164
+627,Adjustable Standing Desk,299.99,28.185.224.120
+628,Vintage Button-Down Shirt,45.99,94.66.180.26
+629,Shoe Organizer,39.99,6.147.37.14
+630,Outdoor Fire Pit,149.99,17.19.200.204
+631,Cocoa Powder,3.99,106.76.81.234
+632,Smartphone Gimbal,89.99,186.120.82.24
+633,Smartphone Gimbal Stabilizer,89.99,160.39.6.18
+634,Greek Feta Cheese,4.99,162.214.153.135
+635,Adjustable Dog Harness,24.99,48.98.138.232
+636,Artisan Cornbread Mix,2.49,54.66.69.123
+637,Blueberry Muffin Mix,4.29,90.183.104.23
+638,Sun-Dried Tomatoes,3.99,2.24.44.168
+639,Oven-Baked Potato Chips,2.79,127.223.155.158
+640,Cocoa Powder,3.99,8.66.226.119
+641,Travel Pillow,22.99,127.191.144.153
+642,Homestyle Chicken Noodle Soup,2.99,53.115.63.203
+643,Collapsible Folding Chair,29.99,157.78.9.125
+644,Heavy Duty Gardening Tool Set,49.99,156.254.243.2
+645,Party Mini Dress,69.99,144.198.3.219
+646,Maple Almond Yogurt,1.89,7.142.222.18
+647,Kids' Trampoline,139.99,112.236.158.184
+648,Wireless Car Charger,24.99,159.194.212.198
+649,Garlic Parmesan Roasted Potatoes,3.99,81.190.176.228
+650,Portable Solar Path Lights,39.99,192.166.178.78
+651,Cinnamon Raisin Bread,3.79,143.117.164.127
+652,Plant-Based Cookbook,29.99,4.139.146.221
+653,Beef Stew Meat,5.99,40.68.49.169
+654,Chili Beans (canned),1.69,121.19.86.118
+655,Desk Lamp with USB Port,29.99,253.66.62.167
+656,Adjustable Height Standing Desk Converter,89.99,193.240.169.9
+657,Organic Quinoa Chips,3.99,8.132.17.227
+658,Adjustable Pet Grooming Table,109.99,168.239.182.37
+659,Faux Fur Throw Blanket,39.99,149.138.163.255
+660,Organic Spinach,2.99,99.239.66.24
+661,Vegetable Potstickers,5.99,16.249.31.25
+662,Ice Pack,8.99,102.167.100.11
+663,Wireless Car Charger,24.99,21.248.152.48
+664,Frozen Burritos,8.99,6.28.89.10
+665,Children's Science Experiment Lab Kit,29.99,188.21.247.56
+666,Robot Vacuum Cleaner,299.99,220.174.233.199
+667,Tea Infuser Bottle,19.99,18.42.66.27
+668,Vegetable Quinoa Bowl,5.99,57.99.44.222
+669,Portable Laptop Table,39.99,173.104.11.140
+670,Baked Potato Chips,2.49,243.65.254.198
+671,Classic Bagels,2.99,203.142.68.7
+672,Smart Home Security Camera,79.99,2.163.12.132
+673,Beef Stroganoff Meal Kit,12.99,140.139.143.214
+674,Classic Caesar Salad Kit,4.99,87.247.235.26
+675,Fruit and Nut Medley,5.99,190.192.20.217
+676,Creamy Coleslaw Mix,2.39,100.209.246.197
+677,Apple Sauce,2.19,53.66.52.118
+678,Pumpkin Puree,2.99,43.202.234.94
+679,Mesh Sports Leggings,39.99,176.163.192.8
+680,Mango Chia Pudding,4.49,8.199.118.21
+681,Chili Con Carne Mix,2.99,41.75.28.250
+682,Multi-Purpose Marine Rope,19.99,243.60.43.113
+683,Collapsible Folding Chair,29.99,254.139.24.217
+684,Frozen Berry Medley,5.49,118.237.105.224
+685,Collapsible Water Bottle,12.99,142.165.148.183
+686,Maple Cinnamon Almonds,4.29,129.154.102.176
+687,Inflatable Pool Float,29.99,16.253.98.131
+688,Lemon Basil Pasta Sauce,4.99,148.160.245.175
+689,Maple Chipotle Glaze,3.49,107.178.24.232
+690,Heat-Resistant Silicone Mat,19.99,89.167.126.164
+691,Non-Stick Grill Pan,39.99,11.153.208.250
+692,Tabletop Fire Pit,79.99,245.1.155.63
+693,Outdoor Camping Hammock,29.99,173.178.222.26
+694,Brazil Nuts,10.99,77.90.188.88
+695,Heart-Shaped Baking Molds,10.99,110.222.104.62
+696,White Rice,1.49,218.55.219.122
+697,Adjustable Yoga Mat Strap,14.99,8.88.32.238
+698,Almond Flour Brownies,5.99,21.163.79.128
+699,Fruit and Nut Energy Bites,2.99,194.63.208.187
+700,Crispy Tofu Bites,4.99,117.233.216.14
+701,Cable Knit Cardigan,49.99,124.246.70.251
+702,Wi-Fi Enabled Smart Light Switch,24.99,248.63.43.126
+703,Organic Quinoa Chips,3.99,127.74.61.73
+704,Sweetened Condensed Milk,1.89,207.89.146.181
+705,Ripped Boyfriend Jeans,54.99,219.192.131.87
+706,Portable UV Sterilizer,19.99,70.201.24.173
+707,Kids' Crafting Station,49.99,69.42.14.126
+708,Cheddar Cheese Slices,3.49,24.140.95.172
+709,Stuffed Bell Peppers,5.99,76.131.41.41
+710,Falafel Mix,2.79,201.188.79.36
+711,Action Camera,199.99,169.117.177.32
+712,Pumpkin Waffles,4.49,222.207.157.63
+713,Maple Cinnamon Granola,4.29,51.59.242.30
+714,Self-Adhesive Wallpaper,34.99,65.24.58.65
+715,Digital Stopwatch Timer,12.99,134.232.201.164
+716,LED Desk Lamp with USB Charging Port,29.99,179.117.218.216
+717,Mesh Laundry Bags Set,12.99,110.171.181.63
+718,Vegetable Lasagna,6.99,128.139.115.123
+719,Handmade Soap Making Kit,34.99,32.153.181.44
+720,Pet Carrier Backpack,39.99,135.148.58.236
+721,Apple Cinnamon Breakfast Muffins,3.49,152.81.135.173
+722,Lemonade Mix,1.99,189.117.132.209
+723,Handcrafted Wooden Jewelry Box,39.99,90.76.98.94
+724,Foldable Yoga Mat Carry Bag,18.99,101.27.183.190
+725,Raspberry Vanilla Greek Yogurt,3.49,185.140.69.247
+726,Adjustable Standing Desk,299.99,31.246.97.245
+727,Laptop Backpack,69.99,188.162.209.68
+728,Casual Long Cardigan,45.99,173.201.76.12
+729,Dog Collar,15.99,118.251.20.107
+730,Car Vacuum,49.99,96.51.223.111
+731,V-Neck Sweater,49.99,117.206.16.83
+732,Magnetic Phone Case,19.99,100.8.236.117
+733,Hair Dryer,39.99,158.199.123.74
+734,Multi-Purpose Marine Rope,19.99,247.151.22.117
+735,Electric Toothbrush Holder,14.99,139.168.95.133
+736,Apple Cinnamon Breakfast Muffins,3.49,232.156.190.48
+737,Thermostatic Shower Valve Kit,39.99,90.55.236.162
+738,Puzzle Game Set,34.99,1.168.30.28
+739,Multicolored LED Strip Lights,29.99,186.47.219.239
+740,Cacao Nibs,6.49,77.115.188.192
+741,Compressed Towel Tablets,12.99,223.184.61.114
+742,Jump Rope with Counter,12.99,228.97.167.116
+743,Electric Kettle,39.99,60.233.216.65
+744,Kids' Trampoline,139.99,254.242.187.192
+745,Kid's Fruit Snacks,2.49,161.192.155.150
+746,Tuscan Bean Soup,2.49,34.157.221.191
+747,Teriyaki Chicken Bowl,6.49,173.78.32.19
+748,Fruit and Nut Medley,5.99,48.5.234.201
+749,Nature Explorer Lens Kit,19.99,122.241.196.180
+750,Fruit and Nut Bars,1.99,76.44.130.92
+751,Chili Lime Corn Chips,2.79,247.215.250.2
+752,Magnetic Whiteboard,34.99,144.29.74.57
+753,Dried Cranberries,4.29,58.70.21.159
+754,Adjustable Garden Rake,22.99,195.124.70.0
+755,Portable Air Conditioner,299.99,37.83.33.5
+756,Wireless Charger,24.99,90.120.95.205
+757,Heavy-Duty Utility Tote,34.99,41.243.240.153
+758,Personal Blender with Travel Lid,34.99,121.195.174.52
+759,White Rice,1.49,92.225.149.49
+760,Chili Garlic Sauce,2.49,125.8.167.66
+761,Wireless Earbuds Case,12.99,246.81.52.0
+762,Yoga Mat Carrier,12.99,194.233.231.153
+763,Organic Honeycrisp Apples,1.99,39.215.12.36
+764,Fitness Resistance Bands Set,34.99,35.65.6.255
+765,Organic Tomato Soup,3.79,3.164.177.65
+766,Coconut Chia Pudding,3.49,170.204.52.9
+767,Handheld Shower Head,34.99,26.113.22.123
+768,Ceramic Planter Set,39.99,118.166.113.88
+769,Honey Graham Crackers,3.29,134.70.225.205
+770,Dog Training Whistle,8.99,68.180.236.45
+771,Inspirational Wall Art,24.99,5.218.241.200
+772,Pretzel Bites,4.99,159.157.79.27
+773,Lightweight Workout Tank,29.99,149.51.109.2
+774,Granola,4.79,16.98.4.193
+775,Creamy Coleslaw Mix,2.39,72.50.121.8
+776,Herb Seasoned Rice,2.99,43.63.232.233
+777,Solar Power Bank,39.99,142.227.85.145
+778,Fitbit Activity Tracker,99.99,83.196.87.243
+779,Roasted Sweet Corn,1.99,9.54.3.236
+780,Falafel Mix,2.79,52.149.9.237
+781,Vanilla Protein Powder,24.99,101.103.216.246
+782,Elderberry Syrup Kit,22.99,3.207.158.68
+783,Creamy Garlic Dressing,3.99,85.83.185.143
+784,Chili Beans in Sauce,1.79,156.234.170.158
+785,Baked Falafel,5.49,71.10.159.29
+786,Green Smoothie Mix,5.99,39.26.253.195
+787,Multi-Function Meat Tenderizer,19.99,139.29.231.241
+788,Classic Pesto Sauce,4.29,20.36.42.53
+789,Pet Travel Bowl,10.99,15.222.72.45
+790,Oats,3.29,16.35.57.17
+791,Personal Security Alarm Keychain,10.99,1.116.25.60
+792,Cacao Nibs,6.49,115.75.190.9
+793,Buttermilk Pancakes,3.99,46.63.134.242
+794,Honey-Balsamic Vinaigrette,3.39,71.5.43.208
+795,Granulated Sugar,2.49,38.53.208.61
+796,Elegant Lace Dress,79.99,220.90.209.55
+797,Whole Grain Cereal,3.49,123.179.137.160
+798,Tofu,2.49,16.215.47.95
+799,Camera Lens Cleaning Kit,14.99,91.150.169.134
+800,Thermostatic Shower Valve Kit,39.99,111.8.41.4
+801,Heavy-Duty Utility Tote,34.99,64.168.72.87
+802,Energy Bites,3.99,130.122.160.204
+803,Organic Green Apples,1.49,80.247.152.38
+804,Baked Mac and Cheese,5.99,57.17.46.163
+805,Lemon Lime Sparkling Water,1.99,164.121.66.82
+806,Smoked Paprika Chicken Thighs,6.99,208.74.230.204
+807,Plant Pot Drip Trays,9.99,144.161.102.149
+808,Electric Wax Warmer,22.99,76.52.161.254
+809,Frozen Spinach,1.99,19.76.48.79
+810,Sun-Dried Tomato Pesto,4.49,167.246.109.71
+811,Sesame Garlic Stir-Fry Sauce,2.79,68.138.81.53
+812,Desk Lamp with USB Port,29.99,38.97.137.224
+813,Self-Watering Planter,24.99,234.194.251.247
+814,Organic Tomato Ketchup,3.49,83.7.39.154
+815,Drone,249.99,216.105.60.49
+816,Mushroom Soup (canned),2.49,210.185.255.3
+817,Cranberry Citrus Sauce,3.99,52.98.36.55
+818,Eco-Friendly Disposable Plates,22.99,106.92.60.70
+819,Car Escape Tool,12.99,204.54.207.182
+820,Noise-Canceling Earbuds,79.99,149.232.4.179
+821,Inspirational Wall Art,24.99,168.77.180.164
+822,Soft Plush Throw Blanket,29.99,229.226.96.67
+823,Caramel Apple Taffy,1.99,128.31.187.37
+824,Garlic Herb Grilled Chicken,8.99,227.198.121.254
+825,Children's Art Set,34.99,123.181.183.39
+826,Roasted Garlic,4.29,155.176.130.232
+827,Black Bean Spaghetti,3.99,83.165.180.134
+828,Reversible Comforter Set,89.99,32.189.255.62
+829,Patterned Knit Scarf,25.99,199.248.165.205
+830,Smartphone Camera Lens Kit,19.99,231.102.190.72
+831,Casual Long Cardigan,45.99,193.152.188.188
+832,Cheesy Cauliflower Bake,5.49,84.166.116.250
+833,Car Emergency Kit,49.99,77.38.233.134
+834,Asian Noodle Salad Kit,4.99,120.9.159.228
+835,Kombucha Drink,3.49,36.230.28.206
+836,Pistachio Ice Cream,4.99,145.38.22.253
+837,Ultraviolet Phone Sanitizer,39.99,233.126.169.117
+838,Luxury Bath Robe,49.99,56.116.208.83
+839,Breezy Off-The-Shoulder Top,34.99,145.220.20.173
+840,Tuscan Bean Soup,2.49,145.21.10.250
+841,Canvas High-Top Sneakers,49.99,235.38.151.20
+842,Spiralizer,22.99,148.212.20.13
+843,Ultra-Thin Laptop Sleeve,19.99,208.130.60.43
+844,Fruit and Nut Bars,1.99,103.239.126.77
+845,Garlic & Herb Goat Cheese,5.49,193.40.24.212
+846,Chiffon Blouse,39.99,232.9.106.114
+847,Thermostatic Shower Valve Kit,39.99,188.26.134.90
+848,Smashed Avocado with Lime,2.49,239.21.234.71
+849,Phone Screen Protector,12.99,110.35.237.14
+850,Mini Indoor Hydroponic Garden,59.99,198.241.209.160
+851,Raisin Cinnamon Granola,3.79,182.152.156.252
+852,Handheld Vacuum,79.99,134.156.2.4
+853,Elegant Lace Dress,79.99,1.184.247.111
+854,Vegetable Stock,2.49,216.141.5.64
+855,Sushi Roll Kit,9.99,71.98.71.121
+856,Tailored Dress Pants,79.99,76.198.5.122
+857,Slim Wallet,24.99,255.103.166.177
+858,Wine Glasses,29.99,5.23.9.59
+859,Fitness Activity Journal,14.99,130.251.107.200
+860,Portable Phone Charger,29.99,200.89.36.124
+861,Paprika,1.79,125.151.1.206
+862,Incense Holder,14.99,202.110.13.110
+863,Scent Diffuser,34.99,24.193.31.153
+864,Vacuum Sealer Machine,89.99,207.117.176.40
+865,Magnetic Screen Door,24.99,4.79.36.12
+866,Pet Carrier Backpack,39.99,203.227.235.133
+867,Lemon Dill Chicken Skewers,9.99,139.205.229.51
+868,Quality Chef Apron,19.99,229.197.112.98
+869,Dill Pickle Chips,2.29,237.217.186.77
+870,Basic V-Neck T-Shirt,19.99,186.121.43.192
+871,Peach & Mango Salsa,4.49,135.188.223.78
+872,Safety Pin Dispenser,5.99,22.150.224.52
+873,Hand Mixer,29.99,160.182.52.90
+874,Face Mask Set,19.99,1.177.52.232
+875,Pet Grooming Scissors,16.99,68.148.125.98
+876,Basic V-Neck T-Shirt,19.99,59.144.226.92
+877,Electric Can Opener,29.99,172.28.215.62
+878,Thai Green Curry Paste,2.49,25.95.64.51
+879,Wi-Fi Enabled Smart Light Switch,24.99,211.176.40.32
+880,Pineapple Teriyaki Chicken Mix,6.99,99.181.54.124
+881,Organic Black Bean Burger,4.49,140.209.20.203
+882,Scent Diffuser Oil,14.99,231.251.122.240
+883,Eco-Friendly Cleaning Cloths,12.99,177.27.205.182
+884,Collapsible Storage Crates,18.99,41.171.196.115
+885,Taro Chips,3.59,90.188.28.226
+886,Garlic Parmesan Roasted Potatoes,3.99,91.125.86.3
+887,Taro Chips,3.59,224.217.230.201
+888,Pet Hair Removal Brush,14.99,121.214.159.47
+889,Car Phone Mount,15.99,117.116.135.150
+890,Pomegranate Juice,4.49,163.161.215.8
+891,Spicy Salsa Verde,3.49,223.214.102.210
+892,Ceramic Knife Set,39.99,96.27.87.13
+893,Organic Fruit Salad,4.49,143.199.80.33
+894,Handheld Shower Head,34.99,103.152.85.76
+895,Herb Drying Rack,22.99,224.208.101.23
+896,Handmade Leather Wallet,49.99,94.13.124.61
+897,Cotton Tote Bag Set,29.99,165.51.49.252
+898,Graphic Hoodie,49.99,206.88.124.252
+899,Solar Charger,39.99,184.83.1.12
+900,Peanut Butter Pretzel Bites,4.19,168.155.37.33
+901,Kale & Quinoa Salad Mix,4.49,220.53.232.44
+902,Wall Calendar,17.99,45.192.227.86
+903,Herb Garden Planter Box,49.99,223.205.166.63
+904,Buffalo Cauliflower Wings,6.99,195.132.65.130
+905,Set of Silicone Cooking Utensils,29.99,99.3.79.105
+906,Coconut Chia Pudding,3.49,19.90.16.157
+907,Peach Yogurt,1.29,15.7.88.96
+908,Puzzle Mat,22.99,216.160.150.11
+909,Cherry Almond Protein Bar,1.99,81.142.161.211
+910,Tomato Paste,1.29,209.182.43.18
+911,Foldable Electric Scooter,349.99,82.6.139.57
+912,Graphic Sweatshirt,34.99,155.201.10.185
+913,LED Strip Lights with Remote Control,29.99,86.160.31.73
+914,Sliced Avocado,2.79,71.86.165.190
+915,Electric Can Opener,29.99,177.143.114.250
+916,Mesh Laundry Bags Set,12.99,145.140.146.229
+917,Marinated Artichokes,3.79,242.20.167.200
+918,Teriyaki Tofu Stir-Fry,7.49,27.146.1.59
+919,Microfiber Cleaning Cloth Set,9.99,206.12.120.216
+920,Customizable Name Puzzle,29.99,156.12.148.72
+921,Pet Safety Harness,24.99,142.174.181.90
+922,Legging Pants,34.99,88.245.253.207
+923,Coconut Curry Chicken,9.99,57.67.45.131
+924,Cookbook,27.99,2.167.153.94
+925,Handheld Shower Head,34.99,25.179.247.223
+926,Ultra-Thin Laptop Sleeve,19.99,56.147.241.41
+927,Coffee Making Kit,44.99,232.43.157.152
+928,Creamy Spinach Dip,5.99,218.193.108.175
+929,Children's Art Set,34.99,28.150.12.83
+930,Sweet Potato Fries,3.99,54.0.114.166
+931,Electric Knife,39.99,250.39.212.127
+932,Body Wash,12.99,175.24.253.236
+933,Interactive Plush Toy,34.99,135.21.200.94
+934,Deep Tissue Massage Gun,89.99,146.98.65.133
+935,Wrap Front Midi Skirt,44.99,140.170.62.206
+936,Classic Baseball Cap,24.99,112.181.97.17
+937,Coconut Lime Rice,2.99,26.175.79.100
+938,Cinnamon Roll Protein Bar,2.99,199.38.121.16
+939,Creamy Garlic Dressing,3.99,165.111.177.127
+940,Whole Chicken,12.99,93.110.63.60
+941,Zesty Cilantro Lime Dressing,3.29,109.202.105.124
+942,Classic Beef Chili,7.99,88.106.199.228
+943,Pepper Jack Cheese Slices,3.49,244.204.56.0
+944,Sporty Cap,15.99,36.57.226.98
+945,Classic Black Dress,79.99,174.21.205.243
+946,Slim Wallet,24.99,137.85.181.28
+947,Pet Travel Backpack Carrier,49.99,50.249.148.171
+948,Smart WiFi Plug,19.99,157.171.126.223
+949,Pet Water Bottle,18.99,203.192.62.185
+950,Pumpkin Puree,2.99,184.253.174.97
+951,Italian Sausage and Peppers,8.99,167.187.141.139
+952,Camping Lantern,34.99,162.104.29.13
+953,Herb Seasoned Couscous,2.49,84.148.70.80
+954,Dark Chocolate Raisins,3.49,19.94.51.33
+955,Coconut Milk,2.49,224.137.138.178
+956,Whole Wheat Pita Bread,2.79,140.132.218.33
+957,Dog Collar,15.99,200.117.253.165
+958,Buffalo Style Cauliflower Bites,5.49,165.40.220.195
+959,Craft Beer Mustard,3.99,195.185.182.38
+960,Puffed Rice Cake,2.49,178.178.82.42
+961,Comfortable Jogger Pants,29.99,74.5.76.26
+962,Gardening Tool Belt,22.99,197.207.83.180
+963,Inflatable Paddle Board,349.99,254.226.12.255
+964,Quality Chef Apron,19.99,88.4.145.99
+965,Vegetable Lasagna,6.99,117.188.183.14
+966,Adjustable Laptop Desk,59.99,108.195.93.66
+967,Safety Pin Dispenser,5.99,231.32.49.206
+968,Fettuccine Alfredo Dinner Kit,5.49,17.169.132.1
+969,Italian Pasta,2.29,21.124.216.230
+970,Interactive Plush Toy,34.99,177.45.177.195
+971,Green Smoothie Mix,5.99,91.32.0.58
+972,Skincare Fridge,39.99,64.204.32.22
+973,Outdoor Inflatable Pool,149.99,180.20.223.163
+974,Whole Roasted Chicken,9.99,197.251.104.51
+975,Garlic Herb Seasoning,1.99,254.224.196.90
+976,Sports Bottle,15.99,93.190.137.150
+977,Pretzel Bites,4.99,225.78.212.30
+978,Water Bottle with Built-in Fruit Infuser,18.99,195.160.213.221
+979,Caribbean Jerk Marinade,3.79,86.186.253.63
+980,Pumpkin Spice Granola,4.99,176.67.230.205
+981,Couscous Mix,2.49,61.188.137.206
+982,Dog Car Seat Cover,39.99,171.193.203.228
+983,Organic Coconut Flakes,3.49,226.100.73.182
+984,Travel Pillow with Memory Foam,29.99,128.135.208.246
+985,Hydration Backpack,39.99,155.1.60.130
+986,Smart Doorbell,119.99,190.196.197.31
+987,Handcrafted Wooden Coasters,19.99,240.129.124.151
+988,Cucumber,0.99,199.84.235.111
+989,Apricot Jam,4.29,49.52.208.110
+990,Grapes (red),3.49,7.108.23.56
+991,Organic Quinoa Chips,3.99,92.156.112.89
+992,Chocolate Avocado Pudding,4.99,137.92.174.230
+993,Cinnamon Roll Protein Bar,2.99,148.194.245.227
+994,Kids' Educational Tablet,129.99,255.232.17.253
+995,Canned Black Beans,1.29,163.49.159.230
+996,Spinach Pizza Rolls,4.99,53.3.238.159
+997,Marinated Artichokes,3.79,16.96.87.135
+998,Blackberry Compote,5.29,59.111.249.87
+999,Plant Watering Spikes,12.99,182.175.131.6
+1000,Decorative LED Neon Sign,45.99,82.49.91.66
